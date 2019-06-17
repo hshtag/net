@@ -63,6 +63,7 @@ transform: translateY(-50%);
     }
 
     .info-box {
+      width: 40vh;
       font-family: 'roboto condensed', cursive;
       border: solid 5px #CCFFFF;
       padding: 15px;
@@ -74,6 +75,6 @@ transform: translateY(-50%);
     }
 
     .info-text {
-      font-size: 20px;
+      font-size: 3vh;
 
     }
