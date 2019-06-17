@@ -44,8 +44,7 @@
       width: 15vh;
       height: 15vh;
       text-align: center;
-      padding: 15px;
-      margin: 10px;
+      padding: 2vh;
       background: white;
       box-shadow: -5px 7px 20px #888888;
       border-radius: 0%;
@@ -55,26 +54,24 @@
     }
 
     .logo-text {
-      color: black;
       font-weight: bold;
       position: relative;
-top: 50%;
-transform: translateY(-50%); 
+      top: 50%;
+      transform: translateY(-50%); 
     }
 
     .info-box {
-      width: 40vh;
+      width: 30vh;
       font-family: 'roboto condensed', cursive;
       border: solid 5px #CCFFFF;
-      padding: 15px;
+      padding: 4vh;
       background: white;
       box-shadow: -5px 7px 20px #888888;
       border-radius: 0%;
-      text-align: left;
+      text-align: center;
       grid-area: content;
     }
 
     .info-text {
       font-size: 3vh;
-
     }
